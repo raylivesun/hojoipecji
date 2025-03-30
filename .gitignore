@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/hoj
+hoj.so
+hoj.dylib
+hoj.dll
+hoj.a
+hoj.lib
+hoj-test-*
+*.exe
+*.o
+*.obj
+*.lst
